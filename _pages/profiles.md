@@ -93,4 +93,3 @@ profiles:
     content: about_alumni.md
     image_circular: false # crops the image to make it circular
 ---
-
