@@ -7,6 +7,9 @@ importance: 3
 category: Research
 #related_publications: true
 ---
+<figure class="figure">
+  <img src="acid_micro.png" class="figure-img img-fluid rounded" alt="">
+</figure>
 
 ### Project 3: Co-evolution of Tumor and Stroma in Breast Cancer
 - **Aim 1:** Investigate the role of cancer-associated fibroblasts in influencing tumor-stroma evolution and in DCIS upstaging.
