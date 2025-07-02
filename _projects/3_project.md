@@ -2,14 +2,11 @@
 layout: page
 title: "Project 3: Co-evolution of tumor and stroma in breast cancer"
 description: 
-img: 
+img: acid_micro.png
 importance: 3
 category: Research
 #related_publications: true
 ---
-<figure class="figure">
-  <img src="acid_micro.png" class="figure-img img-fluid rounded" alt="">
-</figure>
 
 ### Project 3: Co-evolution of Tumor and Stroma in Breast Cancer
 - **Aim 1:** Investigate the role of cancer-associated fibroblasts in influencing tumor-stroma evolution and in ductal carcinmoa in situ upstaging to invasive ductal carcinoma and metastasis.
