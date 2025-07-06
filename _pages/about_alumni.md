@@ -2,9 +2,11 @@
 
 | Name                      | Position              | Current Position |
 | ------------------------- | --------------------- | ---------------- |
+| Raafat Chalar             | MS Researcher         | MD/PhD Student in the University of Michigan |
 | Fatim Kouassi             | Master student        | CSHL             |
 | Julia Gattozzi            | PhD Rotation student  |                  |
 | Monica Alexander          | PhD Rotation student  |                  |
+| Abigail Booth             | PhD Rotation student  |                  |
 | Yijie Kang                | PhD Rotation student  |                  |
 | Andrew Cheng              | PhD Rotation student  |                  |
 | Luiz Alberti              | PhD Rotation student  |                  |
@@ -12,6 +14,7 @@
 | Scott Feltman             | PhD Rotation student  |                  |
 | Grace Han                 | MD student            |                  |
 | Jabin Gong                | MD student            |                  |
+| Efosa Enoma               | MD student            |                  | 
 | Andrew Chen               | Undergraduate student |                  |
 | Andrew Young              | Undergraduate student |                  |
 | Emmanuel Woods            | Undergraduate student |                  |
