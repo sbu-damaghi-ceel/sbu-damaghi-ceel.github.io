@@ -69,10 +69,10 @@ profiles:
     content: about_researchers.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
-    image:
-    content: about_raafat.md
-    image_circular: false # crops the image to make it circular
+  # - align: left
+  #   image:
+  #   content: about_raafat.md
+  #   image_circular: false # crops the image to make it circular
 
   - align: left
     image:
