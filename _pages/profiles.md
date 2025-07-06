@@ -53,6 +53,16 @@ profiles:
     content: about_zhiyi.md
     image_circular: false # crops the image to make it circular
 
+  - align: left
+    image:
+    content: about_sogol.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image:
+    content: about_emma.md
+    image_circular: false # crops the image to make it circular
+
   # Researchers
   - align: left
     image:
