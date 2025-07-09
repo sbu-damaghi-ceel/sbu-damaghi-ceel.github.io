@@ -38,7 +38,8 @@ profiles:
     content: about_joon.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>E-mail: joon-hyun.song@stonybrook.edu</p>
+      <p>E-mail: </p>
+      <p>joon-hyun.song@stonybrook.edu</p>
 
   - align: left
     image:
