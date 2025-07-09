@@ -34,7 +34,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: joon_profile.jpg
     content: about_joon.md
     image_circular: false # crops the image to make it circular
 
