@@ -17,7 +17,7 @@ profiles:
     image: mehdi_profile.jpg
     content: about_mehdi.md
     image_circular: false # crops the image to make it circular
-    more_info: >
+    more_info: 
       <p>Mehdi Damaghi, PhD</p>
       <p>Department of Pathology</p>
       <p>Assistant Professor</p>
@@ -37,6 +37,8 @@ profiles:
     image: joon_profile.jpg
     content: about_joon.md
     image_circular: false # crops the image to make it circular
+    more_info: 
+      <p>E-mail: joon-hyun.song@stonybrook.edu</p>
 
   - align: left
     image:
