@@ -1,6 +1,5 @@
 ## **Rotation Students**
 
-### Sogol Ghanbari
+### Shreya Madan
 
-### Efosa Enoma
-
+### Minxin Huang
