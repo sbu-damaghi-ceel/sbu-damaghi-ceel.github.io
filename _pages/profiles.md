@@ -42,17 +42,17 @@ profiles:
       <p>joon-hyun.song@stonybrook.edu</p>
 
   - align: left
-    image:
+    image: yujie_profile.jpg
     content: about_yujie.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: naheel_profile.jpg
     content: about_naheel.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: zhiyi_profile.jpg
     content: about_zhiyi.md
     image_circular: false # crops the image to make it circular
 
