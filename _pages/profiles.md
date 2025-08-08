@@ -78,7 +78,7 @@ profiles:
   #   image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: karla_profile.jpg
     content: about_karla.md
     image_circular: false # crops the image to make it circular
 
