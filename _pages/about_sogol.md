@@ -1,1 +1,3 @@
 ### Sogol Ghanbari
+
+Sogol was highly interested in genetics, which led her to earn both her Bachelor’s and Master’s degrees in this field. During her Master’s, she investigated the role of microRNAs as an internal control in breast cancer, which sparked her ongoing interest in cancer biology. Her current research focuses on cancer immunology, specifically investigating how tumor-associated macrophages and metabolic stress shape early-stage tumor progression. She is passionate about translating cellular and molecular findings into insights that can inform better diagnostics and therapies. Outside of the lab, she enjoys spending time with her family, traveling, gardening, painting, and walking.
