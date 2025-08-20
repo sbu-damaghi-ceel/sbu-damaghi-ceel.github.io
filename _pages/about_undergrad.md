@@ -82,7 +82,7 @@
 <!-- Jack Yang (no image provided) -->
 <div class="student">
 <img src="/assets/img/Portrait_Placeholder.png" alt="Jack Yang" class="student-photo">
-  <div
+  <div>
     <div class="student-name">Jack Yang</div>
     <p class="student-desc">
       I’m an undergraduate student at SBU majoring in Biochemistry. I have an interest in medicine and plan on pursuing graduate-level education in the future. On top of my interest in science, I also study music at SBU with the piano being my main instrument! I enjoy playing piano in my free time and accompanying other musicians at SBU.
