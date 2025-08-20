@@ -29,7 +29,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: Portrait_Placeholder.png
     content: about_jowana.md
     image_circular: false # crops the image to make it circular
 
@@ -57,12 +57,12 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: Portrait_Placeholder.png
     content: about_sogol.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image:
+    image: Portrait_Placeholder.png
     content: about_emma.md
     image_circular: false # crops the image to make it circular
 
@@ -80,6 +80,16 @@ profiles:
   - align: left
     image: karla_profile.jpg
     content: about_karla.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Portrait_Placeholder.png
+    content: about_haipeng.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: Portrait_Placeholder.png
+    content: about_stefan.md
     image_circular: false # crops the image to make it circular
 
   # Master's student

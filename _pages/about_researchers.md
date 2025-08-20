@@ -1,1 +1,1 @@
-## **Researchers & Visiting Students**
+## **Research Assistant & Visiting Students**
