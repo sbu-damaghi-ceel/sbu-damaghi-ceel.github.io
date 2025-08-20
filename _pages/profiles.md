@@ -57,7 +57,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: Portrait_Placeholder.png
+    image: sogol_profile.jpg
     content: about_sogol.md
     image_circular: false # crops the image to make it circular
 

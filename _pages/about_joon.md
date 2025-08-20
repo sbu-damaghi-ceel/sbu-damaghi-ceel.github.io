@@ -6,4 +6,5 @@ I'm a computational biologist interested in modeling and studying the underlying
 
 2021.08 - : Ph.D. Student in Applied Mathematics & Statistics, Stony Brook Univeristy
 2018.03 - 2020.08: M.Sci. in Life Science, Handong Global University
+
 2012.03 - 2018.02: B.Sci. in LIfe Science & B.Eng. in Electrical Engineering, Handong Global University
