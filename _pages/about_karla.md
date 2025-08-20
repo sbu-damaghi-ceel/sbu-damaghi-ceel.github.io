@@ -1,1 +1,3 @@
 ### Karla Torres Arciga
+
+I am a PhD candidate from UNAM (Universidad Nacional Autónoma de México) and my academic interests include epigenetics and cancer. At Damaghi's lab I am mainly working on understanding epigenetic mechanisms involved in PARPi resistance in ovarian cancer, as well as the interplay between epigenetics modifications and Yamanaka factors regulation. Outside of lab you can find me buying pretty stationary I hardly ever use, learning random (and probably useless) facts and taking pictures of every single animal that crosses my path.

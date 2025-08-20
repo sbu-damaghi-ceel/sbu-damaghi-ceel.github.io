@@ -29,7 +29,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: Portrait_Placeholder.png
+    image: jowana_profile.jpg
     content: about_jowana.md
     image_circular: false # crops the image to make it circular
 
@@ -60,9 +60,12 @@ profiles:
     image: sogol_profile.jpg
     content: about_sogol.md
     image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>E-mail: </p>
+      <p>sogol.ghanbari@stonybrook.edu</p>
 
   - align: left
-    image: Portrait_Placeholder.png
+    image: emma_profile.jpg
     content: about_emma.md
     image_circular: false # crops the image to make it circular
 
