@@ -1,4 +1,4 @@
 ### Haipeng
 
-I'm a computational biologist interested in modeling and studying the underlying abstract structure of evolution especially in perspective of robustenss and evolvability. Currently, I'm studying cancer evolution with single cell multiome sequencing data to understand how temporal fluctuation affect cancer cells population in its global diversity, phenotypes, and so on. I build my own world in my free time.
+I’m a research assistant focused on using deep learning to solve biomedical problems. My current work centers on DCIS upstaging and graph neural networks. I’m passionate about developing novel computational tools to understand complex biological data. Outside of research, I enjoy working out and playing video games
 
