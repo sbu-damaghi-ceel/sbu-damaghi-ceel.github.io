@@ -74,7 +74,7 @@
   <div>
     <div class="student-name">Arham Akhyer</div>
     <p class="student-desc">
-      <!-- Add Arham's short bio here -->
+      Hi my name is Arham, and I’m a junior undergraduate majoring in Biology on the pre-med track. I’m passionate about pursuing a career in medicine, and my studies have helped me stay motivated toward that goal. Outside of school, I enjoy traveling to new places and experiencing different cultures. In my free time, I like playing basketball and going to the gym, which help me stay active and balanced.
     </p>
   </div>
 </div>
@@ -90,13 +90,3 @@
   </div>
 </div>
 
-<!-- Hugo (image + example description provided) -->
-<div class="student">
-  <img src="/assets/img/hugo_profile.jpg" alt="Hugo" class="student-photo">
-  <div>
-    <div class="student-name">Hugo</div>
-    <p class="student-desc">
-      
-    </p>
-  </div>
-</div>
