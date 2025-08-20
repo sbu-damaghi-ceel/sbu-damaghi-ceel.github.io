@@ -48,7 +48,7 @@
 
 <!-- Soraya Rahni (no image provided) -->
 <div class="student">
-<img src="/assets/img/Portrait_Placeholder.png" alt="Soraya Rahni" class="student-photo">
+<img src="/assets/img/soraya_profile.jpg" alt="Soraya Rahni" class="student-photo">
   <div>
     <div class="student-name">Soraya Rahni</div>
     <p class="student-desc">
