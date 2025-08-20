@@ -83,7 +83,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: haipeng_profile
+    image: haipeng_profile.jpg
     content: about_haipeng.md
     image_circular: false # crops the image to make it circular
 
