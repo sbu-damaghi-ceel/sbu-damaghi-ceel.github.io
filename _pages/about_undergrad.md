@@ -59,7 +59,7 @@
 
 <!-- Saiful Samad (image provided) -->
 <div class="student">
-  <img src="/assets/img/saif_profile.jpg" alt="Saiful Samad" class="student-photo">
+  <img src="/assets/img/saif_profile_2.jpg" alt="Saiful Samad" class="student-photo">
   <div>
     <div class="student-name">Saiful Samad</div>
     <p class="student-desc">
