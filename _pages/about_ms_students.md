@@ -50,7 +50,7 @@
   <div>
     <div class="student-name">Venkata Narayana Redrouthu</div>
     <p class="student-desc">
-    I am a Master’s student in Data Science at Stony Brook University. I am currently working under the guidance of Professor Dhamagi Mehdi and assisting Joonhyun song with research on cancer evolution using single-cell multiome sequencing data. My work focuses on understanding how temporal fluctuations influence cancer cell populations in terms of global diversity and phenotypic changes. Outside of research, I enjoy playing video games and watching anime.
+    I am a Master’s student in Data Science at Stony Brook University. I am currently working under the guidance of Professor Mehdi Damaghi and assisting Joon-Hyun Song with research on cancer evolution using single-cell multiome sequencing data. My work focuses on understanding how temporal fluctuations influence cancer cell populations in terms of global diversity and phenotypic changes. Outside of research, I enjoy playing video games and watching anime.
     </p>
   </div>
 </div>
