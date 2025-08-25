@@ -4,7 +4,7 @@
 | ------------------------- | --------------------- | ---------------- |
 | Raafat Chalar             | MS Researcher         | MD/PhD Student in the University of Michigan |
 | Fatim Kouassi             | Master student        | CSHL             |
-| Kevin Vera                | Master student        | CSHL             |
+| Kevin Vera                | Master student        |                  |
 | Julia Gattozzi            | PhD Rotation student  |                  |
 | Monica Alexander          | PhD Rotation student  |                  |
 | Abigail Booth             | PhD Rotation student  |                  |
