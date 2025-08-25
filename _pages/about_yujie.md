@@ -1,1 +1,3 @@
 ### Yujie Xiao
+
+I am a PhD student in Applied Mathematics and Statistics. My research focuses on multi-omics approaches to cancer evolution, with a particular emphasis on predicting upstaging in early breast cancer—ductal carcinoma in situ (DCIS). I develop and apply graph neural network methods to spatial omics data to identify and characterize spatial domains within the tumor microenvironment. By integrating statistical modeling with machine learning across molecular layers, my goal is to improve risk stratification and reveal mechanisms that underpin DCIS progression.
