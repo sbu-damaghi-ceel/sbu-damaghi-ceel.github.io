@@ -37,7 +37,7 @@
 
 <!-- Susoma Halder (no image provided) -->
 <div class="student">
-  <img src="/assets/img/Portrait_Placeholder.png" alt="Soraya Rahni" class="student-photo">
+  <img src="/assets/img/Portrait_Placeholder.png" alt="Susoma Halder" class="student-photo">
   <div>
     <div class="student-name">Susoma Halder</div>
     <p class="student-desc">
@@ -68,6 +68,18 @@
     <div class="student-name">Jack Yang</div>
     <p class="student-desc">
       I’m an undergraduate student at SBU majoring in Biochemistry. I have an interest in medicine and plan on pursuing graduate-level education in the future. On top of my interest in science, I also study music at SBU with the piano being my main instrument! I enjoy playing piano in my free time and accompanying other musicians at SBU.
+    </p>
+  </div>
+</div>
+
+
+<!-- Shreeya Gillela -->
+<div class="student">
+<img src="/assets/img/shreeya_profile.png" alt="Shreeya Gillela" class="student-photo">
+  <div>
+    <div class="student-name">Shreeya Gillela</div>
+    <p class="student-desc">
+      Hi! My name is Shreeya, and I'm a freshman undergraduate student majoring in Biochemistry on the pre-med track. I'm excited to pursue a career in medicine and connect research with meaningful clinical applications. Outside of academics, I love watching Formula 1, listening to music, and I hope to travel a lot in the future. I also enjoy working out and reading!
     </p>
   </div>
 </div>
