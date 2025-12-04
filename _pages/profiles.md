@@ -80,20 +80,20 @@ profiles:
   #   content: about_raafat.md
   #   image_circular: false # crops the image to make it circular
 
-  - align: left
-    image: karla_profile.jpg
-    content: about_karla.md
-    image_circular: false # crops the image to make it circular
+  # - align: left
+  #   image: karla_profile.jpg
+  #   content: about_karla.md
+  #   image_circular: false # crops the image to make it circular
 
   - align: left
     image: haipeng_profile.jpg
     content: about_haipeng.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
-    image: Portrait_Placeholder.png
-    content: about_stefan.md
-    image_circular: false # crops the image to make it circular
+  # - align: left
+  #   image: Portrait_Placeholder.png
+  #   content: about_stefan.md
+  #   image_circular: false # crops the image to make it circular
 
   # Master's student
   - align: left

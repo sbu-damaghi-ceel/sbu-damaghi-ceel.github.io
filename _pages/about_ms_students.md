@@ -38,6 +38,27 @@
 <div class="student">
 <img src="/assets/img/Portrait_Placeholder.png" alt="Jack Yang" class="student-photo">
   <div>
+    <div class="student-name">Clarissa Padilla</div>
+    <p class="student-desc">
+      
+    </p>
+  </div>
+</div>
+
+<div class="student">
+<img src="/assets/img/Portrait_Placeholder.png" alt="Jack Yang" class="student-photo">
+  <div>
+    <div class="student-name">Aditya Meshram</div>
+    <p class="student-desc">
+      
+    </p>
+  </div>
+</div>
+
+
+<div class="student">
+<img src="/assets/img/Portrait_Placeholder.png" alt="Jack Yang" class="student-photo">
+  <div>
     <div class="student-name">Devin Marcheselli</div>
     <p class="student-desc">
       I received my B.S. in Biology and M.S. in Physiology and Biophysics from Stony Brook University. I work in Dr. Damaghi’s lab, where I am excited to continue my research experience. I plan on attending medical school in the near future, with the goal of integrating clinical practice and research. Outside of the lab, I enjoy playing soccer, traveling, and cooking.

@@ -46,16 +46,7 @@
   </div>
 </div>
 
-<!-- Soraya Rahni (no image provided) -->
-<div class="student">
-<img src="/assets/img/soraya_profile.jpg" alt="Soraya Rahni" class="student-photo">
-  <div>
-    <div class="student-name">Soraya Rahni</div>
-    <p class="student-desc">
-       Soraya is an undergraduate student at Stony Brook University, expected to graduate in June 2027. She is double majoring in Biology and Women’s Studies and plans to pursue a career as an OBGYN. Passionate about women’s health and patient advocacy, Soraya is especially excited about her current research on individualizing PARP inhibitor therapy in ovarian cancer. Outside of academics, she enjoys listening to Taylor Swift, spending time with friends, and is working on becoming a more consistent runner.
-    </p>
-  </div>
-</div>
+
 
 <!-- Saiful Samad (image provided) -->
 <div class="student">
@@ -68,16 +59,7 @@
   </div>
 </div>
 
-<!-- Arham Akhyer (image provided) -->
-<div class="student">
-  <img src="/assets/img/arham_profile.jpg" alt="Arham Akhyer" class="student-photo">
-  <div>
-    <div class="student-name">Arham Akhyer</div>
-    <p class="student-desc">
-      Hi my name is Arham, and I’m a junior undergraduate majoring in Biology on the pre-med track. I’m passionate about pursuing a career in medicine, and my studies have helped me stay motivated toward that goal. Outside of school, I enjoy traveling to new places and experiencing different cultures. In my free time, I like playing basketball and going to the gym, which help me stay active and balanced.
-    </p>
-  </div>
-</div>
+
 
 <!-- Jack Yang (no image provided) -->
 <div class="student">

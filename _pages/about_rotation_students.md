@@ -1,5 +1,7 @@
 ## **Rotation Students**
 
-### Shreya Madan
+### Benjamin Okisamen
 
-### Minxin Huang
+### Isaac Odoom Amanor
+
+### Seungmin Chou
